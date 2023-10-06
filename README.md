@@ -16,10 +16,6 @@ My name is Arya. I am a mathematics student from Institut Teknologi Bandung. I'm
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=SQL&logoColor=white" />
 </p>
 
-<h2 id="Githubstats"><i class="fab fa-stats"></i> Github Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aryap-putra&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
-
- 
 ### Get in touch
 
 - Linkedin: https://www.linkedin.com/in/aryap-putra
