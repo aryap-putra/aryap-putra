@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-My name is Arya. I am a mathematics fresh graduate from Institut Teknologi Bandung. I'm currently learning data science and machine learning.
+My name is Arya. I am a fresh graduate from Institut Teknologi Bandung majoring in mathematics. I'm currently learning data science and machine learning.
 
 <!--
 **aryap-putra/aryap-putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
